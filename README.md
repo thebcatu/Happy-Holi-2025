@@ -69,12 +69,16 @@ happy-holi/
 
 <div align="center">
 
-| ![Mahendra Mahara](https://github.com/mahendramahara.png) |
-|:----------------------------------------------------------:|
-| **[Mahendra Mahara](https://github.com/mahendramahara)** |
-| Full Stack Developer |
-| [LinkedIn](https://linkedin.com/in/mahendramahara) |
-| [Portfolio](https://mahendrasingh.com.np) |
+<div style="display: inline-block; text-align: center; margin: 20px;">
+  <img src="https://github.com/mahendramahara.png" width="100" height="100" style="border-radius: 50%;" alt="Mahendra Mahara">
+  <br>
+  <strong><a href="https://github.com/mahendramahara">Mahendra Mahara</a></strong>
+  <br>
+  Full Stack Developer
+  <br>
+  <a href="https://linkedin.com/in/mahendramahara">LinkedIn</a> | 
+  <a href="https://mahendrasingh.com.np">Portfolio</a>
+</div>
 
 </div>
 
