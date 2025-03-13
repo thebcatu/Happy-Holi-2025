@@ -69,12 +69,12 @@ happy-holi/
 
 <div align="center">
 
-| ![Developer 1](https://github.com/dev1.png) | ![Developer 2](https://github.com/dev2.png) | ![Developer 3](https://github.com/dev3.png) |
-|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
-| **[Developer Name](https://github.com/dev1)** | **[Developer Name](https://github.com/dev2)** | **[Developer Name](https://github.com/dev3)** |
-| Lead Developer | UI/UX Designer | Front-end Developer |
-| [LinkedIn](https://linkedin.com/in/dev1) | [LinkedIn](https://linkedin.com/in/dev2) | [LinkedIn](https://linkedin.com/in/dev3) |
-| [Portfolio](https://dev1.com) | [Portfolio](https://dev2.com) | [Portfolio](https://dev3.com) |
+| ![Mahendra Mahara](https://github.com/mahendramahara.png) |
+|:----------------------------------------------------------:|
+| **[Mahendra Mahara](https://github.com/mahendramahara)** |
+| Full Stack Developer |
+| [LinkedIn](https://linkedin.com/in/mahendramahara) |
+| [Portfolio](https://mahendrasingh.com.np) |
 
 </div>
 
